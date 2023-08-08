@@ -12,7 +12,7 @@ How to Reach Me
 📫 You can contact me through the following channels:
 
 Email: cenkerdonmez@gmail.com
-LinkedIn: https://www.linkedin.com/in/cenk-erd%C3%B6nmez-b3a41324b/
+LinkedIn: https://www.linkedin.com/in/cenkerdonmez/
 
 I'm looking forward to connecting with fellow developers, discussing new opportunities, and sharing knowledge and experiences. Don't hesitate to reach out if you have any questions or if there's anything I can help you with!
 
