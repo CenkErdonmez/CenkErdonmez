@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cenkerdonmez" alt="cenkerdonmez" /></a> </p>
 
-- 🔭 I’m currently working on [Crowdfunding App](https://capstone-team-8.vercel.app/)
+
 
 - 👨‍💻 All of my projects are available at [https://portfolio-cenk-erdonmez.vercel.app/](https://portfolio-cenk-erdonmez.vercel.app/)
 
